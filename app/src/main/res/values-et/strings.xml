@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name_long">Privaatsussõbralik mõõdulint</string>
+    <string name="app_name">Mõõdulint</string>
+    <string name="action_camera">Kaamerajoonlaud</string>
+    <string name="action_ruler">Ekraanijoonlaud</string>
+    <string name="action_help">Abiteave</string>
+    <string name="action_about">Rakenduse teave</string>
+    <string name="action_tutorial">Juhend</string>
+    <string name="screen_ruler">Ekraanijoonlaud</string>
+    <string name="action_calibration">Kalibreeri</string>
+    <string name="action_reset_calibration">Nulli kalibreerimine</string>
+    <string name="action_settings">Seadistused</string>
+</resources>
