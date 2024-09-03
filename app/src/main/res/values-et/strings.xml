@@ -11,4 +11,10 @@
     <string name="action_calibration">Kalibreeri</string>
     <string name="action_reset_calibration">Nulli kalibreerimine</string>
     <string name="action_settings">Seadistused</string>
+    <string name="description_camera_gallery">Leia pilt, millelt soovid objekti mõõta. Võid selle teha nutiseadme kaameraga või otsida galeriist välja mõne varasema pildi.</string>
+    <string name="from_camera">Pildista kaameraga</string>
+    <string name="from_gallery">Otsi pilt galeriist</string>
+    <string name="camera_ruler">Kaamerapõhine joonlaud</string>
+    <string name="camera_crash">Kaamerarakendus on kokku jooksnud.</string>
+    <string name="gallery_crash">Galeriirakendus on kokku jooksnud.</string>
 </resources>
