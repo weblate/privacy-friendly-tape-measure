@@ -180,7 +180,7 @@
     <string name="ruler_inch">Regla (pulgadas)</string>
     <string name="ruler_degree">Transportador (grados)</string>
     <string name="ruler_radian">Transportador (radianes)</string>
-    <string name="ruler_off">Ninguno</string>
+    <string name="ruler_off">Nada</string>
     <!-- ###CAMERA RULER### -->
     <string name="camera_ruler_settings">Ajustes de la regla en cámara</string>
     <string name="pref_units_of_measurement">Unidades de medida</string>
@@ -236,7 +236,7 @@
     <string name="slide3_text">Selecciona el objeto de referencia deseado en el menú de la parte superior derecha, coloque el objeto de referencia en la región verde de imagen y presione el botón de la parte inferior derecha. Ahora puedes elegir el objeto a medir a través del botón en la parte inferior derecha. Puedes medir la longitud de las líneas y las áreas de triángulos, círculos y tetrágonos.</string>
     <string name="next">Siguiente</string>
     <string name="skip">Saltar</string>
-    <string name="okay">Aceptar</string>
+    <string name="okay">De acuerdo</string>
     <string name="view_help">Mostrar ayuda</string>
     <string name="help_uom">Unidades de medida</string>
     <string name="help_ref_types">Selección de tipo de referncia</string>
