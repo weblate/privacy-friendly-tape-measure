@@ -29,4 +29,7 @@
     <string name="slide1_heading">Tere tulemast</string>
     <string name="skip">Jäta vahele</string>
     <string name="next">Edasi</string>
+    <string name="length">Pikkus:</string>
+    <string name="cancel">Katkesta</string>
+    <string name="okay">Sobib</string>
 </resources>
